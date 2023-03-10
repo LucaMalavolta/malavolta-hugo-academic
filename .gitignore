@@ -6,3 +6,5 @@
 public/
 jsconfig.json
 node_modules/
+cache
+.hugo_build.lock
